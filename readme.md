@@ -68,3 +68,5 @@ if it shows
 ``` git config --global --add safe.directory ```
 
 the easiest method is just delete the whole thing and just clone again, there should be a better methods but why borders.
+
+.
